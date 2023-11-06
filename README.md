@@ -93,7 +93,7 @@ classification tasks.
 
 🌼 In summary, this project involves using the Iris dataset to develop and train a machine learning model 🌺 that accurately classifies Iris flowers based on sepal and petal measurements. 📏📐 The model's performance will be evaluated based on its accuracy in predicting the species of test Iris flowers. 🎯🤖
 
-TASK 4 4️⃣
+TASK 4️⃣
 
 SALES PREDICTION USING PYTHON 📈📉📊
 
